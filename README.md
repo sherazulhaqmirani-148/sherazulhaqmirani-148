@@ -37,11 +37,11 @@ Learning Data Science, building practical projects with Python, C#, SQL and expl
 <tr>
 <td align="center" width="700">
 
-### 💡 Developer Mindset
+<h3>💡 Developer Mindset</h3>
 
-> **"The best way to predict the future is to create it."**
+<p><b>"Great things are done by a series of small things brought together."</b></p>
 
-*— Peter Drucker*
+<p><i>— Vincent van Gogh</i></p>
 
 </td>
 </tr>
