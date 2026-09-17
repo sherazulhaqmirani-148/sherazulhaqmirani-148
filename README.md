@@ -19,6 +19,25 @@ Learning Data Science, building practical projects with Python, C#, SQL and expl
 ![Profile views](https://komarev.com/ghpvc/?username=sherazulhaqmirani-148&color=blueviolet&style=flat-square)
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherazulhaqmirani-148&theme=tokyonight)
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="700">
+
+### 💡 Developer Mindset
+
+> **"The best way to predict the future is to create it."**
+
+*— Peter Drucker*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sherazulhaqmirani-148&theme=tokyonight)
 
