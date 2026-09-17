@@ -24,7 +24,7 @@ Learning Data Science, building practical projects with Python, C#, SQL and expl
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sherazulhaqmirani-148&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sherazulhaqmirani-148&theme=tokyonight)
+
 
 ---
 
