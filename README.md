@@ -1,10 +1,21 @@
+## 👨‍💻 About Me
+
 # Hi 👋, I'm Sheraz Ul Haq
 
 ### Data Science Student | Aspiring Data Scientist - Lahore, Pakistan
 
-Learning Data Science, building practical projects with Python, C#, SQL and exploring Artificial Intelligence and Machine Learning.
+I'm a Data Science student passionate about turning data and ideas into practical solutions. 
+I'm currently developing my skills in **Python, SQL, C#, Object-Oriented Programming, 
+Database Systems, Data Analysis, and Machine Learning**.
 
-**Fun fact:** I enjoy turning ideas into practical projects and learning something new every day
+I enjoy building real-world projects that combine **software development, databases, 
+and data-driven thinking**. I'm continuously learning new technologies, improving my 
+problem-solving skills, and exploring the field of **Artificial Intelligence and Machine Learning**.
+
+My goal is to grow into a skilled **Data Scientist** who can use data, technology, and 
+analytical thinking to solve meaningful real-world problems.
+
+**💡 Fun fact:** I enjoy turning ideas into practical projects and learning something new every day.
 
 ## Connect with me
 
