@@ -38,15 +38,15 @@ Learning Data Science, building practical projects with Python, C#, SQL and expl
 </div>
 ---
 
+---
+
 <div align="center">
 
-## 🚀 Thanks for visiting my profile!
-
-**Building** &nbsp; • &nbsp; **Learning** &nbsp; • &nbsp; **Exploring** &nbsp; • &nbsp; **Growing**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:1e3a8a,100:6d28d9&height=230&text=🚀%20Thanks%20for%20visiting%20my%20profile!&fontSize=28&fontColor=ffffff&fontAlignY=35&desc=Building%20•%20Learning%20•%20Exploring%20•%20Growing&descSize=17&descColor=c4b5fd&descAlignY=55&descAlign=50">
 
 <br>
 
-*Let's connect and build something meaningful together.*
+**Let's connect and build something meaningful together.**
 
 <br>
 
@@ -56,10 +56,6 @@ Learning Data Science, building practical projects with Python, C#, SQL and expl
 
 <br>
 
-**Sheraz Ul Haq** &nbsp; • &nbsp; Data Science Student
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+**Sheraz Ul Haq** • *Data Science Student*
 
 </div>
