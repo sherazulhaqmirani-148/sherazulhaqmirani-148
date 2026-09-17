@@ -18,9 +18,9 @@ Learning Data Science, building practical projects with Python, C#, SQL and expl
 
 ![Profile views](https://komarev.com/ghpvc/?username=sherazulhaqmirani-148&color=blueviolet&style=flat-square)
 
-![Sheraz Ul Haq's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherazulhaqmirani-148&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherazulhaqmirani-148&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherazulhaqmirani-148&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sherazulhaqmirani-148&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sherazulhaqmirani-148&theme=tokyonight)
 
