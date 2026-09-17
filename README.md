@@ -33,18 +33,6 @@ Learning Data Science, building practical projects with Python, C#, SQL and expl
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="700">
-
-<h3>💡 Developer Mindset</h3>
-
-<p><b>"Great things are done by a series of small things brought together."</b></p>
-
-<p><i>— Vincent van Gogh</i></p>
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=💡%20Developer%20Mindset&fontColor=ffffff&fontSize=28&fontAlignY=35&desc=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together.&descAlignY=65&descSize=16&descAlign=50&descColor=c0caf5">
 
 </div>
