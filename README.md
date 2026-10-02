@@ -88,33 +88,27 @@ A pharmacy management system focused on medicine inventory, purchases, sales, su
 </td>
 </tr>
 </table>
+
+<div align="left">
 <h1>🎓 Education</h1>
+
+</div>
 
 <table width="100%">
 <tr>
-<td width="90" align="center">
-
-<h1>🎓</h1>
-
-</td>
-
 <td>
 
-<h2>Bachelor of Science in Data Science</h2>
+<h3>Bachelor of Science in Data Science</h3>
 
 <p>
 <b>University of Engineering and Technology, Lahore</b>
 </p>
 
-<p>
-📅 <b>2025 – 2029</b>
-</p>
+<p>2025 – 2029</p>
 
 </td>
 </tr>
 </table>
-
-<br>
 
 
 
