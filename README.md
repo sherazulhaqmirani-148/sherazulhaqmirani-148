@@ -32,20 +32,24 @@ I'm always open to connecting with fellow developers, data enthusiasts, and peop
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,postgres,tailwind,python,cs,supabase,js,cpp,docker,microsoftsqlserver,powerbi)](https://skillicons.dev)
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ### 🍽️ Restaurant Management System
 
-A management system for handling restaurant operations, including menu management, orders, customers, billing, and daily activities.
+A management system designed to handle restaurant operations, including menu management, orders, customers, billing, and daily activities.
 
 **Tech:** C#, .NET, SQL
 
 </td>
-<td width="50%" valign="top">
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ### 🏫 Darsgah — School Management System
 
@@ -57,7 +61,11 @@ A complete school management platform for managing students, teachers, classes, 
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td colspan="3" height="25"></td>
+</tr>
+
+<tr>
+<td width="48%" valign="top">
 
 ### 🏥 Clinic Management System
 
@@ -66,7 +74,10 @@ A clinic management solution for managing patients, doctors, appointments, medic
 **Tech:** C#, .NET, Avalonia UI, SQL
 
 </td>
-<td width="50%" valign="top">
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ### 💊 Pharmacy Management System
 
@@ -83,6 +94,7 @@ A pharmacy management system focused on medicine inventory, purchases, sales, su
 
 **University of Engineering and Technology, Lahore**
 **2025 – 2029**
+
 
 
 ## GitHub Stats
