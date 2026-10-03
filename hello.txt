@@ -6,3 +6,8 @@ and collaborate with other developers.
 
 In this task, I am practicing how to initialize a repository,
 add files to the staging area, and create a commit.
+
+Feature Login Branch
+
+This change was made on the feature-login branch.
+I am practicing Git branching and version control.
