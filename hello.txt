@@ -1,0 +1,8 @@
+Hello, this is my first Git project.
+
+I am learning Git and GitHub as part of my Software Engineering lab.
+Git helps me track changes, manage different versions of files,
+and collaborate with other developers.
+
+In this task, I am practicing how to initialize a repository,
+add files to the staging area, and create a commit.
