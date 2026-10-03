@@ -149,3 +149,6 @@ A pharmacy management system focused on medicine inventory, purchases, sales, su
 **Sheraz Ul Haq** • *Data Science Student*
 
 </div>
+
+## Lab 01
+Git, GitHub, VS Code and Markdown practice.
